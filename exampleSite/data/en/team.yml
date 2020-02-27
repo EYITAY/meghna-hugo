@@ -7,8 +7,9 @@ team:
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: Software Engineer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 'Eyitayo Alimi of Nigeria is a Software Engineer with over 10 years in
+      the field of technology. Virtual Reality is her forte, she carried out and published
+      the first virtual reality research work in African by an African. '
     social:
     - icon: ti-twitter-alt
       link: https://twitter.com/alimieyitayo
