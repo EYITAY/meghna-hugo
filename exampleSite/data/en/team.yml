@@ -21,11 +21,13 @@ team:
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: Business Strategist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Reema Diab of Jordan is responsible to analyse the strategic plan of
+      the project, connect with partners and Manage primary operations including recruitment,
+      monitoring the accounting, preparing the financial reports, budget monitoring,
+      implementation of cash monitoring strategies to achieve high standards of excellence.
     social:
     - icon: ti-twitter-alt
-      link: "#"
+      link: https://twitter.com/reemodiab?lang=en
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/reema-diab-mba-2731183b/?originalSubdomain=jo
     - icon: ti-instagram
