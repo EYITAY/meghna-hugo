@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "VR4D"
 title = "Virtual Reality for Defence"
 [Languages.en]
 contentDir = "content/english"
@@ -32,7 +32,7 @@ weight = 3
 [[menu.main]]
 URL = "team"
 name = "Team"
-weight = 4
+weight = "4"
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
