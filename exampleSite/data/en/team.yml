@@ -18,18 +18,16 @@ team:
       link: "#"
     - icon: ti-instagram
       link: https://www.instagram.com/alimieyitayo/
-  - name: Mo. Kha. Alamgir
+  - name: Reema Diab
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: SEO Specialist
+    designation: Business Strategist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
-    - icon: ti-facebook
-      link: "#"
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
       link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    - icon: ti-instagram
+      link: https://www.instagram.com/reemodiab/
