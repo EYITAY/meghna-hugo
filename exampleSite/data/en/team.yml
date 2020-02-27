@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Eyitayo Alimi
-    image_webp: static/uploads/TAYO PIC.jpg
-    image: static/uploads/TAYO PIC.jpg
+    image_webp: "/static/uploads/TAYO PIC.jpg"
+    image: "/static/uploads/TAYO PIC.jpg"
     designation: Software Engineer
     content: 'Eyitayo Alimi of Nigeria is a Software Engineer with over 10 years in
       the field of technology. Virtual Reality is her forte, she carried out and published
