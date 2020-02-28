@@ -34,3 +34,5 @@ fields:
     - type: textarea
       name: content
       label: content
+pages:
+- exampleSite/data/fr/testimonial.yml
