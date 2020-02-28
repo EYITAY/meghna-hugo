@@ -35,4 +35,5 @@ fields:
       name: content
       label: content
 pages:
+- exampleSite/data/en/testimonial.yml
 - exampleSite/data/fr/testimonial.yml
