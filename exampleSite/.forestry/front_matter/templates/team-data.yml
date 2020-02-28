@@ -44,4 +44,5 @@ fields:
         name: link
         label: link
 pages:
+- exampleSite/data/en/team.yml
 - exampleSite/data/fr/team.yml
