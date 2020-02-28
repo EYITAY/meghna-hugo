@@ -35,4 +35,5 @@ fields:
       name: link
       label: link
 pages:
+- exampleSite/data/en/portfolio.yml
 - exampleSite/data/fr/portfolio.yml
